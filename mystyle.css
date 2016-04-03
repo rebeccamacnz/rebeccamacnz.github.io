@@ -58,3 +58,7 @@ th.word-column {
 .footer-space {
 	padding-bottom: 50px;
 }
+
+.indent1 {
+    text-indent: 50px;
+}
