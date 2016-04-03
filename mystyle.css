@@ -1,0 +1,65 @@
+div {
+	text-align: center;
+}
+.header {
+	font-family: 'Pacifico', cursive;
+	font-size: 50;
+}
+
+.about-me {
+	background-color: #D1F0FF;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
+.circle-img {
+	border-radius: 50%;
+}
+
+.section-header {
+	font-size: 25;
+	font-family: 'Nova Mono', ;
+}
+
+.to-the-left {
+	text-align: left;
+}
+
+.ombre-blue1 {
+	background-color: #B2E0FF;
+}
+
+.ombre-blue2 {
+	background-color: #99D6FF;
+}
+
+.ombre-blue3 {
+	background-color: #80CCFF;
+}
+
+.bar-graph-blue {
+	background-color: #005C99;
+}
+
+.workplace-info {
+	text-indent: 100px;
+}
+
+.graph-table {
+	border: 5px solid #99D6FF;
+}
+
+th.bar-column {
+	width: 200px;
+}
+
+th.word-column {
+	width: 500px;
+}
+
+.footer-space {
+	padding-bottom: 50px;
+}
